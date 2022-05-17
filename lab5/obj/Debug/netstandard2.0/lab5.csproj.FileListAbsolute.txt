@@ -1,0 +1,32 @@
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.csproj.AssemblyReference.cache
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.AssemblyInfoInputs.cache
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.AssemblyInfo.cs
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.csproj.CoreCompileInputs.cache
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.deps.json
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.dll
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.pdb
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/XamlC.stamp
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.dll
+E:/Work/Programming/C#/Cross-platform programming/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.deps.json
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/bin/Debug/netstandard2.0/lab5.pdb
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.csproj.AssemblyReference.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/NoteEntryPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/Views/NotesPage.xaml.g.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.AssemblyInfoInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.AssemblyInfo.cs
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.csproj.CoreCompileInputs.cache
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.dll
+/Users/maksimkaplun/ТНТУ/crossplatform/lab5/lab5/lab5/obj/Debug/netstandard2.0/lab5.pdb

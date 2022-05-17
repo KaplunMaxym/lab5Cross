@@ -1,0 +1,47 @@
+@string/appbar_scrolling_view_behavior;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+alpha;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\enterfromleft.xml
+alpha;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\exittoleft.xml
+android.support.design.widget.TabLayout;obj\Debug\100\res\layout\tabbar.xml
+android.support.v7.widget.Toolbar;obj\Debug\100\res\layout\toolbar.xml
+androidx.appcompat.widget.Toolbar;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\shellcontent.xml
+attr;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\attrs.xml
+cache-path;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\100\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\tabbar.xml
+declare-styleable;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\attrs.xml
+external-cache-path;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+FrameLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\bottomtablayout.xml
+item;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\styles.xml
+item;obj\Debug\100\res\values\styles.xml
+LinearLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\bottomtablayout.xml
+paths;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\45\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\attrs.xml
+resources;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\strings.xml
+resources;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\styles.xml
+resources;obj\Debug\100\res\values\colors.xml
+resources;obj\Debug\100\res\values\styles.xml
+set;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\enterfromleft.xml
+set;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\enterfromright.xml
+set;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\exittoleft.xml
+set;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\exittoright.xml
+string;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\strings.xml
+style;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\values\styles.xml
+style;obj\Debug\100\res\values\styles.xml
+translate;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\enterfromleft.xml
+translate;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\enterfromright.xml
+translate;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\exittoleft.xml
+translate;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;E:\Work\Programming\C#\Cross-platform programming\lab5\lab5\lab5.Droid\obj\Debug\100\lp\46\jl\res\layout\flyoutcontent.xml
